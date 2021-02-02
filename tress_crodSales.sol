@@ -1502,10 +1502,3 @@ contract TressCrowdsale is Crowdsale, MintedCrowdsale, TimedCrowdsale, PostDeliv
   }
   
 }
-
-
-//400
-//0x8BB341454D23DDc49104920aCf8Db2D8ab598A2b
-//1611948055
-//1612034455
-//0x38468fAb4B981cE1089D041DD4bA65dc1326594E
